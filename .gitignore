@@ -1,0 +1,121 @@
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# SQLite database file
+*.sqlite3
+
+# Directory for static files (collected static)
+/static/
+
+# Directory for media files (user uploads)
+/media/
+
+# Python virtual environment
+Ec0m3r/
+.venv2/
+env/
+venv/
+ENV/
+
+# IDE settings and cache
+.vscode/
+.idea/
+.pycharm_helpers/
+.cache/
+.pytest_cache/
+*.swp
+
+# Editor-specific files
+.editorconfig
+
+# Secret keys and sensitive information (add your own files here)
+secrets.json
+settings.json
+
+# Local development settings
+local_settings.py
+
+# Database dumps
+*.dump
+
+# Node.js and npm/yarn
+node_modules/
+package-lock.json
+yarn-error.log
+
+# JavaScript and TypeScript output
+dist/
+out/
+
+# Compiled Java classes
+*.class
+
+# Compiled C/C++ output
+*.out
+
+# Compiled Ruby output
+*.gem
+
+# Compiled Rust output
+target/
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# macOS system files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python egg metadata
+*.egg-info/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+pyproject.toml
+poetry.lock
+
+# Temporary files
+*.tmp
+*.temp
+.tmp
+
+# Caches and local data
+.cache/
+
+# User-specific files
+*_history
+shell.db
+.bash_history
+.bash_sessions/
+.history/
+
+# Ignore any backup files
+*~
+
+# Application-specific files (customize as needed)
+# MyDjangoApp/
+# myapp/secrets.py
+
+# Custom directory or file exclusions
+# custom_directory/
+# custom_file.ext
